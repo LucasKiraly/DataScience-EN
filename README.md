@@ -8,8 +8,8 @@
 
 ### Topics covered
 
-- [x] [Data visualization]() :bar_chart:
-- [x] [Machine Learning]() :robot:
-- [x] [Mathematics and Statistics]() :chart_with_upwards_trend:
+- [x] Data visualization :bar_chart:
+- [x] Machine Learning :robot:
+- [x] Mathematics and Statistics :chart_with_upwards_trend:
 
 
