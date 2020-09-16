@@ -1,6 +1,6 @@
 # Considerations about wrapper methods:
- - Tries to guarantee a better performance
- - Select the most optimal features
- - Reduces the model complexity
- - Does not guarantee a better accuracy.
- - The features importance are calculated individually instead in a group.
+ - Use combinations of variables to determine predictive power
+ - Find the best combination of variables
+ - Perform better than filter method
+ - Computationally expensive than filter method
+ - Not recommended on high number of features
