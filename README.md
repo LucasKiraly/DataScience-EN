@@ -6,10 +6,3 @@
 
 <h3 align="center">:beginner: This repository aims to present the incredible world of data science through examples, exercises and projects using the Python programming language.</h3>
 
-### Topics covered
-
-- [x] Data visualization :bar_chart:
-- [x] Machine Learning :robot:
-- [x] Mathematics and Statistics :chart_with_upwards_trend:
-
-
