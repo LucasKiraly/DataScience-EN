@@ -1,3 +1,7 @@
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=LucasKiraly&color=e07a5f&style=for-the-badge&logo=GitHub">
+
+
 <h1 align="center">Data Science EN</h1>
 
 <p align="center">
