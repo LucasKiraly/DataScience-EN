@@ -24,5 +24,4 @@ Contains projects and examples of machine learning models.
 <map name="image-map">
     <area target="_blank" alt="Supervised" title="Supervised" href="https://github.com/LucasKiraly/DataScience-EN/tree/master/Machine%20Learning/Supervised" coords="277,178,16,112" shape="rect">
     <area target="_blank" alt="Regression" title="Regression" href="https://github.com/LucasKiraly/DataScience-EN/tree/master/Machine%20Learning/Supervised/Regression" coords="270,254,60,202" shape="rect">
-</map>cience-EN/tree/master/Machine%20Learning/Supervised/Regression" coords="270,254,60,202" shape="rect">
 </map>
