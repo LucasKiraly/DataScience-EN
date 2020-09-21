@@ -10,7 +10,7 @@ This repository aims to present the incredible world of data science through exa
 
 ### Table of contents
 <!--ts-->
-  * Machine Learning
+  * #### Machine Learning
     * [Supervised](#flasco)
       * [Regression](#Regression)
 <!--te-->
