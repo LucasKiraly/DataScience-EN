@@ -7,3 +7,8 @@
 ### :cherries:Welcome to my repository!
 
 This repository aims to present the incredible world of data science through examples, exercises and projects using the Python programming language.
+
+### Table of contents
+<!--ts-->
+  * [Sobre](#Sobre)
+<!--te-->
