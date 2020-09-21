@@ -13,5 +13,6 @@ This repository aims to present the incredible world of data science through exa
   * [Machine Learning](#Machine Learning)
 <!--te-->
 
-### Machine Learning
+Machine Learning
+============
 BUHUEGUESHEHUEHGUEGHG
