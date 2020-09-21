@@ -11,9 +11,12 @@ This repository aims to present the incredible world of data science through exa
 Table of contents
 =================
 <!--ts-->
-  * [Machine Learning](#Machine-Learning)
+  * [Machine learning](#Machine-learning)
 <!--te-->
 
-Machine Learning
+Machine learning
 ============
-BUHUEGUESHEHUEHGUEGHG
+This folder contains projects and examples of machine learning models.
+<!--ts-->
+  * [Supervised](https://github.com/LucasKiraly/DataScience-EN/tree/master/Machine%20Learning/Supervised)
+<!--te-->
