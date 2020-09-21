@@ -10,7 +10,6 @@ This repository aims to present the incredible world of data science through exa
 
 ### Table of contents
 <!--ts-->
-  * [Sobre](#Sobre)
-  * [Machine Learning](Machine Learning)
+  * [Machine Learning]
     * [VLA](#flasco)
 <!--te-->
