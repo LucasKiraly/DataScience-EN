@@ -1,5 +1,5 @@
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=DataScience - EN&color=e07a5f&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=DataScience&color=e07a5f&style=for-the-badge&logo=GitHub">
 
 
 <h1 align="center">Data Science EN</h1>
