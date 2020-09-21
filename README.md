@@ -1,6 +1,6 @@
 
 
-<h1 align="left">Data Science EN</h1>
+<h1 align="left">Data Science</h1>
 <img src="https://img.shields.io/static/v1?label=DataScience&message=English&color=e07a5f&style=for-the-badge&logo=GitHub"><code><img height="20" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code><code><img height="20" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"></code>
 
 <p align="center">
