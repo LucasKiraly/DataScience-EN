@@ -11,6 +11,6 @@ This repository aims to present the incredible world of data science through exa
 ### Table of contents
 <!--ts-->
   * [Sobre](#Sobre)
-  * [Machine Learning](https://github.com/LucasKiraly/DataScience-EN/tree/master/Machine%20Learning)
+  * [Machine Learning](Machine Learning)
     * [VLA](#flasco)
 <!--te-->
