@@ -8,9 +8,10 @@
 
 This repository aims to present the incredible world of data science through examples, exercises and projects using the Python programming language.
 
-### Table of contents
+Table of contents
+=================
 <!--ts-->
-  * [Machine Learning](#Machine Learning)
+  * [Machine Learning](#Machine-Learning)
 <!--te-->
 
 Machine Learning
