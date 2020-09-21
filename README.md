@@ -18,7 +18,9 @@ Machine learning
 ============
 Contains projects and examples of machine learning models.
 
-<p style="position: relative;">
-  <img src="https://www.edureka.co/blog/wp-content/uploads/2018/03/Types-of-Machine-Learning-Waht-is-Machine-Learning-Edureka-2.png>
-  <a style="position: absolute; top: 10%; left: 10%; width: 30%; height: 15%" href=....></a>
-</p>
+<img src="68747470733a2f2f7777772e65647572656b612e636f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031382f30332f54797065732d6f662d4d616368696e652d4c6561726e696e672d576168742d69732d4d616368696e652d4c6561726e696.png" usemap="#image_map">
+<map name="image_map">
+  <area alt="eeee" title="eeee" href="https://github.com/ekalinin/github-markdown-toc/blob/master/README.md" coords="162,128,164,129" shape="rect">
+  <area alt="" title="" href="" coords="7,96,281,186" shape="rect">
+</map>
+
