@@ -22,7 +22,7 @@ Contains projects and examples of machine learning models.
 <img src="https://www.edureka.co/blog/wp-content/uploads/2018/03/Types-of-Machine-Learning-Waht-is-Machine-Learning-Edureka-2.png" usemap="#image-map">
 
 <map name="image-map">
-    <area target="" alt="Supervised" title="Supervised" href="https://github.com/LucasKiraly/DataScience-EN/tree/master/Machine%20Learning/Supervised" coords="277,178,16,112" shape="rect">
+    <area target="_self" alt="Supervised" title="Supervised" href="https://github.com/LucasKiraly/DataScience-EN/tree/master/Machine%20Learning/Supervised" coords="277,178,16,112" shape="rect">
 </map>
 
 <!--ts-->
