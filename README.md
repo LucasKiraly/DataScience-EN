@@ -12,7 +12,7 @@ This repository aims to present the incredible world of data science through exa
 - [Machine learning](#machine-learning)
 - [Statistics](#statistics)
 
-# Machine learning
+# Machine learning:cherries:
 
 <img src="https://www.edureka.co/blog/wp-content/uploads/2018/03/Types-of-Machine-Learning-Waht-is-Machine-Learning-Edureka-2.png">
 
