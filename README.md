@@ -11,7 +11,7 @@ This repository aims to present the incredible world of data science through exa
 :cherries:Table of contents
 =================
 - [Machine learning](#machine-learning)
-- [Pins extras do GitHub](#pins-extras-do-github)
+- [Statistics](#statistics)
 
 :cherries:Machine learning
 ============
@@ -27,5 +27,5 @@ This repository aims to present the incredible world of data science through exa
     * [Wrapper methods](https://github.com/LucasKiraly/DataScience-EN/tree/master/Machine%20Learning/Feature%20Selection/Wrapper%20Methods)
 <!--te-->
 
-:cherries:Statistics
+# :cherries:Statistics
 ============
