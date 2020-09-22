@@ -12,6 +12,7 @@ This repository aims to present the incredible world of data science through exa
 =================
 <!--ts-->
   * [Machine learning](#Machine-learning)
+  * [Statistics](#Statistics)
 <!--te-->
 
 :cherries:Machine learning
@@ -30,4 +31,3 @@ This repository aims to present the incredible world of data science through exa
 
 :cherries:Statistics
 ============
-bla
