@@ -9,13 +9,15 @@
 This repository aims to present the incredible world of data science through examples, exercises and projects using the Python programming language.
 
 # :cherries:Table of contents
-- [Machine learning](#:cherries:-machine-learning)
-- [Statistics](#statistics)
+- Machine learning
+- Statistics
 
 # :cherries:Machine learning
+
 <img src="https://www.edureka.co/blog/wp-content/uploads/2018/03/Types-of-Machine-Learning-Waht-is-Machine-Learning-Edureka-2.png">
 
 ### Contains projects and examples of machine learning models.
+
 <!--ts-->
   * [Supervised](https://github.com/LucasKiraly/DataScience-EN/tree/master/Machine%20Learning/Supervised)
     * [Regression](https://github.com/LucasKiraly/DataScience-EN/tree/master/Machine%20Learning/Supervised/Regression)
@@ -26,4 +28,5 @@ This repository aims to present the incredible world of data science through exa
 <!--te-->
 
 # :cherries:Statistics
-DDDDDD
+
+### :construction:In construction:construction:
