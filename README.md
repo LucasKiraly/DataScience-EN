@@ -10,10 +10,8 @@ This repository aims to present the incredible world of data science through exa
 
 :cherries:Table of contents
 =================
-<!--ts-->
-  * [Machine learning](#Machine-learning)
-  * [Statistics](#Statistics)
-<!--te-->
+- [Machine learning](#machine-learning)
+- [Pins extras do GitHub](#pins-extras-do-github)
 
 :cherries:Machine learning
 ============
