@@ -24,6 +24,7 @@ This repository aims to present the incredible world of data science through exa
     * [Decision tree](https://github.com/LucasKiraly/DataScience-EN/tree/master/Machine%20Learning/Supervised/Decision%20Tree)
     * [Random forest](https://github.com/LucasKiraly/DataScience-EN/tree/master/Machine%20Learning/Supervised/Random%20Forest)
     * [Classification](https://github.com/LucasKiraly/DataScience-EN/tree/master/Machine%20Learning/Supervised/Classification)
+    * [Projects](https://github.com/LucasKiraly/DataScience-EN/tree/master/Machine%20Learning/Supervised/Projects)
   * [Feature selection](https://github.com/LucasKiraly/DataScience-EN/tree/master/Machine%20Learning/Feature%20Selection)
     * [Filter methods](https://github.com/LucasKiraly/DataScience-EN/tree/master/Machine%20Learning/Feature%20Selection/Filter%20Methods)
     * [Wrapper methods](https://github.com/LucasKiraly/DataScience-EN/tree/master/Machine%20Learning/Feature%20Selection/Wrapper%20Methods)
