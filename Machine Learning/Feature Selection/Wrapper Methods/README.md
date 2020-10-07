@@ -1,4 +1,4 @@
-# Considerations about wrapper methods:
+# :cherries:Considerations about wrapper methods:
  - Use combinations of variables to determine predictive power
  - Find the best combination of variables
  - Perform better than filter method
