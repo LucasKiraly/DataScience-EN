@@ -1,4 +1,4 @@
-# Considerations about filter methods:
+# :cherries:Considerations about filter methods:
  - Tries to guarantee a better performance
  - Select the most optimal features
  - Reduces the model complexity
