@@ -19,12 +19,12 @@ This repository aims to present the incredible world of data science through exa
 ### This folder contains projects and examples of machine learning models.
 
 <!--ts-->
+  * [Projects](https://github.com/LucasKiraly/DataScience-EN/tree/master/Machine%20Learning/Projects)
   * [Examples](https://github.com/LucasKiraly/DataScience-EN/tree/master/Machine%20Learning/Examples)
     * [Supervised Learning](https://github.com/LucasKiraly/DataScience-EN/tree/master/Machine%20Learning/Examples/Supervised%20Learning)
   * [Feature selection](https://github.com/LucasKiraly/DataScience-EN/tree/master/Machine%20Learning/Feature%20Selection)
     * [Filter methods](https://github.com/LucasKiraly/DataScience-EN/tree/master/Machine%20Learning/Feature%20Selection/Filter%20Methods)
     * [Wrapper methods](https://github.com/LucasKiraly/DataScience-EN/tree/master/Machine%20Learning/Feature%20Selection/Wrapper%20Methods)
-  * [Projects](https://github.com/LucasKiraly/DataScience-EN/tree/master/Machine%20Learning/Projects)
   * [Others](https://github.com/LucasKiraly/DataScience-EN/tree/master/Machine%20Learning/Others)
 
 <!--te-->
