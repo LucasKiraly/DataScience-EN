@@ -29,6 +29,10 @@ This repository aims to present the incredible world of data science through exa
 
 <!--te-->
 
+# :cherries:EDA
+
+### :construction:In construction:construction:
+
 # :cherries:Statistics
 
 ### :construction:In construction:construction:
