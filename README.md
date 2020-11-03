@@ -14,8 +14,6 @@ This repository aims to present the incredible world of data science through exa
 
 # :cherries:Machine learning
 
-<img src="https://www.edureka.co/blog/wp-content/uploads/2018/03/Types-of-Machine-Learning-Waht-is-Machine-Learning-Edureka-2.png">
-
 ### This folder contains projects and examples associated with machine learning concepts.
 
 <!--ts-->
