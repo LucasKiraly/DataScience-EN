@@ -10,6 +10,7 @@ This repository aims to present the incredible world of data science through exa
 # :cherries:Table of contents
 
 - Machine learning
+- Exploratory Data Analysis
 - Statistics
 
 # :cherries:Machine learning
